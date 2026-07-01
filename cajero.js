@@ -9,7 +9,7 @@ let num1 = parseFloat(prompt('Ingrese el primer número: '));
 let operacion = prompt('Ingrese la operación (+, -, *, /): ');
 let num2 = parseFloat(prompt('Ingrese el segundo número: '));
 // let resultado = num1 + num2;
-//     console.log(`El resultado es ${resultado}`);
+// console.log(`El resultado es ${resultado}`);
 
 switch (operacion) {
     case '+':
